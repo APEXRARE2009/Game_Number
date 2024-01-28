@@ -34,8 +34,8 @@ btn.addEventListener("click", () => {
         count = 0;
     } else {
         console.log(0);
-        jsSpan.textContent = 8 - count;
     }
+	jsSpan.textContent = 8 - count;
 })
 
 	/*if (jsSpan == 8) {
