@@ -4,6 +4,7 @@ body {
 	background: #1a1a1a;
 	color: white;
 	font-family: Comfortaa, arial;
+	user-select: none;
 }
 
 * {
